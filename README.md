@@ -1,4 +1,4 @@
-# 🌟 AI Assistant for Visually Impaired Individuals
+# 🌟  Eyes of AI: Empowering the Visually Impaired with Smarter Image Analysis
 
 This project is an **AI-powered assistant** designed to help visually impaired individuals understand their surroundings through images. The app offers the following functionalities:  
 
@@ -9,7 +9,7 @@ This project is an **AI-powered assistant** designed to help visually impaired i
 
 ---
 
-## **✨ Features**  
+## ** Features**  
 
 - **🖼️ Image-to-Text and Audio Conversion**  
   Extracts text from uploaded images and converts it into **audio** for seamless accessibility.  
@@ -27,14 +27,14 @@ This project is an **AI-powered assistant** designed to help visually impaired i
 
 ## **🛠️ Technologies Used**  
 
-- **🐍 Python**: Programming language used for development.  
-- **🖥️ Streamlit**: Framework for building interactive web applications with accessibility-focused UI.  
-- **📷 BLIP (Bootstrapped Language-Image Pretraining)**: Advanced image captioning model for context-aware scene descriptions.  
-- **🔍 YOLO (You Only Look Once)**: Object detection model for identifying objects and obstacles in uploaded images.  
-- **📝 EasyOCR**: Optical Character Recognition (OCR) tool for extracting text from images.  
-- **🤖 LangChain**: Framework for integrating LLMs (like Google Generative AI).  
-- **🌐 Google Generative AI (Gemini)**: For generating detailed and context-aware scene descriptions.  
-- **🔊 gTTS (Google Text-to-Speech)**: Converts the detected text into speech for audio output.  
+- ** Python**: Programming language used for development.  
+- ** Streamlit**: Framework for building interactive web applications with accessibility-focused UI.  
+- ** BLIP (Bootstrapped Language-Image Pretraining)**: Advanced image captioning model for context-aware scene descriptions.  
+- ** YOLO (You Only Look Once)**: Object detection model for identifying objects and obstacles in uploaded images.  
+- ** EasyOCR**: Optical Character Recognition (OCR) tool for extracting text from images.  
+- ** LangChain**: Framework for integrating LLMs (like Google Generative AI).  
+- ** Google Generative AI (Gemini)**: For generating detailed and context-aware scene descriptions.  
+- ** gTTS (Google Text-to-Speech)**: Converts the detected text into speech for audio output.  
 
 ---
 
